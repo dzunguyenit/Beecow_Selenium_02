@@ -1,0 +1,79 @@
+{
+	"LoginPageBeecow": {
+		"valueUser": " ",
+		"valuePass": " ",
+		"Numberic": "1234",
+		"numbericEmail": "1234abcd@",
+		"Email": "genymotionios@gmail.com",
+		"Passthreenumber": "123",
+		"PassFail": "123456",
+		"PassTrue": "1234@abcd",
+		"isProblemTryAgainMsg": "genymotionios",
+		"PassFailMsg": "Sai email / số điện thoại hoặc mật khẩu",
+		"minimumCharacterIsInvaildFormatMsg": "Có chút vấn đề xảy ra. Hãy thử lại.",
+		"EmailFailMsg": "Email không đúng",
+		"PhoneNumerIsInvaildFormatMsg": "Số điện thoại không đúng",
+		"invalidUserAndPassMsg": "Hãy nhập email / số điện thoại và mật khẩu"
+	},
+	"HomePageBeecow": {
+		"Email": "genymotionios@gmail.com",
+		"PassTrue": "1234@abcd",
+		"NAMESP_TXT": "hoa",
+		"DESCRIBE_TXT": "Description product",
+		"AMOUNT_TXT": "10",
+		"AMOUNT9_TXT":"9",
+		
+		"SKU_TXT": "56785",
+		"PRICE_TXT": "8",
+		"PRICE7_TXT": "7",
+		
+		"GIAM_TXT": "10",
+		"GIAM9_TXT": "9",
+		
+		"MOI_TXT": "100",
+		"WEIGHTFortynine_TXT": "49",
+		"WEIGHT_TXT": "50",
+		"WEIGHT1000_TXT": "10000",
+		"WEIGHT1001_TXT": "10001",
+		"WEIGHT9000_TXT": "9000",
+		
+		"WIDTH_TXT": "0",
+		"WIDTH51_TXT": "51",
+		"WIDTH1_TXT": "1",
+		"WIDTH50_TXT": "50",
+		"WIDTH49_TXT": "49",
+		
+		"LENGTH_TXT": "0",
+		"LENGTH31_TXT": "31",
+		"LENGTH1_TXT": "1",
+		"LENGTH30_TXT": "30",
+		"LENGTH29_TXT": "29",
+		
+		"HEIGHT_TXT": "0",
+		"HEIGHT51_TXT": "51",
+		"HEIGHT1_TXT": "1",
+		"HEIGHT50_TXT": "50",
+		"HEIGHT49_TXT":"49",
+		
+		
+		"SKUshirt_TXT":"SKUshirt",
+		"HOANTAT_MSG":"Bạn đã cập nhật thành công sản phẩm này",
+		"TenSP_MSG":" ",
+		"GiaSP_MSG":" ",
+		"Done_MSG":"Bạn đã đăng thành công sản phẩm này",
+		"WEIGHT50to1000_MSG": "Cân nặng từ 50g đến 10000g.",
+		"WIDTH1to50_MSG":"Từ 1cm tới 50cm",
+		"LENGTH1to30_MSG":"Từ 1cm tới 30cm",
+		"HEIGHT1to50_MSG":"Từ 1cm tới 50cm",
+		"IMAGE_MSG": "Hãy chọn hình ảnh cho sản phẩm",
+		"NAMESP_MSG": "Hãy điền tên sản phẩm",
+		"CATEGORY_MSG": "Hãy chọn danh mục.",
+		"DESCRIBE_MSG": "Hãy mô tả sản phẩm.",
+		"AMOUNT_MSG": "Nhập số lượng.",
+		"PRICE_MSG": "Hãy điền giá.",
+		"WEIGHT_MSG": "Hãy điền cân nặng sản phẩm.",
+		"WIDTH_MSG": "Bắt buộc",
+		"LENGTH_MSG": "Bắt buộc",
+		"HEIGHT_MSG": "Bắt buộc"
+	}
+}

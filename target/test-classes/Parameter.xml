@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="Test">
+		<parameter name="brower" value="chrome" />
+		<parameter name="version" value="76.0.3809.126" />
+		<parameter name="url" value="https://www.beecow.com/market" />
+
+
+		<classes>
+		
+			<class name="com.beecowsite.scripts.CreatePageBeecow" />
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
